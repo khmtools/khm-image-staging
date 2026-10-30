@@ -1,1 +1,0 @@
-# khm-image-staging
