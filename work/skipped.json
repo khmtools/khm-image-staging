@@ -1,0 +1,17 @@
+[
+ {
+  "filename": "Untitled-20.jpg",
+  "reason": "filename matched 0 or 2+ files (ambiguous)",
+  "run": "2026-11-01"
+ },
+ {
+  "filename": "sds.jpg",
+  "reason": "filename matched 0 or 2+ files (ambiguous)",
+  "run": "2026-11-01"
+ },
+ {
+  "filename": "3-7.jpg",
+  "reason": "filename matched 0 or 2+ files (ambiguous)",
+  "run": "2026-11-01"
+ }
+]
